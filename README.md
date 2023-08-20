@@ -1,4 +1,13 @@
-### Hi there 👋
+## Gabriel Charles 👋
+Sou um profissional de TI focado em infraestrutura que trabalha no Brasil, especializado em tecnologias VMware.  
+
+### Sobre mim!
+- 🔭 Em construção
+- 🌱 Em construção
+- 📫 Em construção
+- 💬 Em construção
+- ⚡ Em construção
+- 😄 Pronomes: Ele | Ele
 
 <!--
 **gabrielcharlesgcmifs/gabrielcharlesgcmifs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
