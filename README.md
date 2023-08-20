@@ -1,5 +1,5 @@
 ## Gabriel Charles 👋
-Sou um profissional de TI focado em infraestrutura que trabalha no Brasil, especializado em tecnologias VMware.  
+Sou estudante do ensino médio.
 
 ### Sobre mim!
 - 🔭 Em construção
