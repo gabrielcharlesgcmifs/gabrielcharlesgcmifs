@@ -1,5 +1,5 @@
 ## Gabriel Charles 👋
-Sou estudante do ensino médio.
+Sou estudante do ensino médio que mora no Brasil.
 
 ### Sobre mim!
 - 🔭 Em construção
